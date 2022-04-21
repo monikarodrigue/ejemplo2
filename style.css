@@ -1,0 +1,73 @@
+body{
+    text-align: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+#myname{
+    font-family: "courgette",cursive;
+    color:black;
+}
+#bienvenidos{
+    padding: 70px;
+    text-align: center;
+}
+h1{
+    font-size: 18px;
+}
+p{
+    font-size: 18px;
+    color: chocolate;
+}
+h2{
+    font-size: 20px;
+    color:aquamarine;
+}
+.line{
+    height: 6px;
+    background-color:blue;
+    width: 70px;
+    margin: 9px auto;
+}
+#bio{
+    padding: 20 px;
+    font-size: 18;
+    text-align: center;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+.menu a{
+    color: black !important;
+}
+.link{
+    color: crimson;
+    display: inline;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
+.link:hover{
+    background-color: beige;
+}
+#Mywork a{
+    font-size: 30px;
+}
+#Reference a{
+    font-size: 30px;
+}
+#picture{
+    width: auto;
+    height: 300px;
+    border-radius: 0%;
+    margin: 20px;
+}
